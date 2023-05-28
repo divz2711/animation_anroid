@@ -284,7 +284,7 @@ Registeration Number :212221040042
 </set>
 ```
 
-## :
+## MainActivity.java :
 ```
 package com.example.animation;
 
